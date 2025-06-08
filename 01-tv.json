@@ -1,26 +1,10 @@
 [
-  {
-    "id": 101, "name": "Canal TV Exemplo", "url": "http://exemplo.com/1", "group": "TV", "logo": "https://i.imgur.com/2s51pGv.png"
-  },
-  {
-    "id": 201, "name": "Cine Ação Exemplo", "url": "http://exemplo.com/2", "group": "Filmes", "logo": "https://i.imgur.com/cSAg2v5.png"
-  },
-  {
-    "id": 301, "name": "Novela Exemplo", "url": "http://exemplo.com/3", "group": "Novela", "logo": "https://i.imgur.com/D4s2d1S.png"
-  },
-  {
-    "id": 401, "name": "Desenho Exemplo", "url": "http://exemplo.com/4", "group": "Desenho", "logo": "https://i.imgur.com/bA4nUa5.png"
-  },
-  {
-    "id": 501, "name": "Anime Exemplo", "url": "http://exemplo.com/5", "group": "Anime", "logo": "https://i.imgur.com/sS3f9G3.png"
-  },
-  {
-    "id": 601, "name": "Drama Exemplo", "url": "http://exemplo.com/6", "group": "Drama", "logo": "https://i.imgur.com/eC5wG5r.png"
-  },
-  {
-    "id": 701, "name": "Ficção Exemplo", "url": "http://exemplo.com/7", "group": "Ficção", "logo": "https://i.imgur.com/kH1oJ7z.png"
-  },
-  {
-    "id": 801, "name": "Comédia Exemplo", "url": "http://exemplo.com/8", "group": "Comédia", "logo": "https://i.imgur.com/vH3sP9o.png"
-  }
+  {"id": 101, "name": "Canal TV Exemplo", "url": "http://exemplo.com/1", "group": "TV", "logo": "https://i.imgur.com/2s51pGv.png"},
+  {"id": 201, "name": "Cine Ação Exemplo", "url": "http://exemplo.com/2", "group": "Filmes", "logo": "https://i.imgur.com/cSAg2v5.png"},
+  {"id": 301, "name": "Novela Exemplo", "url": "http://exemplo.com/3", "group": "Novela", "logo": "https://i.imgur.com/D4s2d1S.png"},
+  {"id": 401, "name": "Desenho Exemplo", "url": "http://exemplo.com/4", "group": "Desenho", "logo": "https://i.imgur.com/bA4nUa5.png"},
+  {"id": 501, "name": "Anime Exemplo", "url": "http://exemplo.com/5", "group": "Anime", "logo": "https://i.imgur.com/sS3f9G3.png"},
+  {"id": 601, "name": "Drama Exemplo", "url": "http://exemplo.com/6", "group": "Drama", "logo": "https://i.imgur.com/eC5wG5r.png"},
+  {"id": 701, "name": "Ficção Exemplo", "url": "http://exemplo.com/7", "group": "Ficção", "logo": "https://i.imgur.com/kH1oJ7z.png"},
+  {"id": 801, "name": "Comédia Exemplo", "url": "http://exemplo.com/8", "group": "Comédia", "logo": "https://i.imgur.com/vH3sP9o.png"}
 ]
