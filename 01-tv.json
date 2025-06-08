@@ -1,11 +1,6 @@
-[
-  {
-    "name": "GLOBO SP",
-    "url": "http://...",
-    "group": "CANAIS ABERTOS",
-    "logo": "http://...",
-    "description": "...",
-    "options": {  }
-  },
-  
-]
+{
+  "playlist": [
+    { "name": "GLOBO", "group": "CANAIS", ... },
+    { "name": "SBT", "group": "CANAIS", ... }
+  ]
+}
