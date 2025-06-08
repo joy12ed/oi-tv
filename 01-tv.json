@@ -1,4 +1,3 @@
-
 [
   {
     "id": 101,
@@ -55,12 +54,5 @@
     "url": "http://stream.exemplo.com/comedia/comedia1",
     "group": "Comédia",
     "logo": "https://i.imgur.com/vH3sP9o.png"
-  },
-  {
-    "id": 102,
-    "name": "Outro Canal de TV",
-    "url": "http://stream.exemplo.com/tv/canal2",
-    "group": "TV",
-    "logo": "https://i.imgur.com/2s51pGv.png"
   }
 ]
