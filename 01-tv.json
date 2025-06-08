@@ -1,9 +1,76 @@
-[
-  {
-    "name": "GLOBO SP",
-    "logo": "",
-    "url": "",
-    "category": "CANAIS ABERTOS" 
-  },
-  
-]
+{
+  "playlist": [
+    {
+      "name": "Canal de Notícias 24h",
+      "logo": "https://i.imgur.com/link_logo_tv.png",
+      "url": "http://link.com/noticias.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "O Senhor dos Anéis",
+      "logo": "https://i.imgur.com/2S6gG8w.jpg",
+      "url": "http://link.com/senhor_dos_aneis.mp4",
+      "GROUP": "FILMES"
+    },
+    {
+      "name": "Attack on Titan",
+      "logo": "https://i.imgur.com/k2U4i1p.jpg",
+      "url": "http://link.com/attack_on_titan.mp4",
+      "GROUP": "ANIMES"
+    },
+    {
+      "name": "Bob Esponja",
+      "logo": "https://i.imgur.com/link_logo_desenho.png",
+      "url": "http://link.com/bob_esponja.mp4",
+      "GROUP": "DESENHO"
+    },
+    {
+      "name": "Avenida Brasil - Cap. 10",
+      "logo": "https://i.imgur.com/link_logo_novela.png",
+      "url": "http://link.com/avenida_brasil_10.mp4",
+      "GROUP": "NOVELA"
+    },
+    {
+      "name": "Blade Runner 2049",
+      "logo": "https://i.imgur.com/link_logo_ficcao.png",
+      "url": "http://link.com/blade_runner.mp4",
+      "GROUP": "FICÇÃO CIENTÍFICA"
+    },
+    {
+      "name": "À Espera de um Milagre",
+      "logo": "https://i.imgur.com/link_logo_drama.png",
+      "url": "http://link.com/espera_um_milagre.mp4",
+      "GROUP": "DRAMA"
+    },
+    {
+      "name": "O Exorcista",
+      "logo": "https://i.imgur.com/link_logo_terror.png",
+      "url": "http://link.com/o_exorcista.mp4",
+      "GROUP": "TERROR"
+    },
+    {
+      "name": "As Branquelas",
+      "logo": "https://i.imgur.com/link_logo_comedia.png",
+      "url": "http://link.com/as_branquelas.mp4",
+      "GROUP": "COMÉDIA"
+    },
+    {
+      "name": "John Wick 4",
+      "logo": "https://i.imgur.com/link_logo_acao.png",
+      "url": "http://link.com/john_wick_4.mp4",
+      "GROUP": "AÇÃO"
+    },
+    {
+      "name": "Outro Canal de TV",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "Outro Filme de Ação",
+      "logo": "https://i.imgur.com/link_logo_acao_2.png",
+      "url": "http://link.com/acao_outro.mp4",
+      "GROUP": "AÇÃO"
+    }
+  ]
+}
