@@ -1,0 +1,86 @@
+[
+  {
+    "id": 101,
+    "name": "Canal Notícias 24h",
+    "url": "http://stream.exemplo.com/tv/noticias",
+    "group": "TV",
+    "logo": "https://logo.exemplo.com/noticias.png"
+  },
+  {
+    "id": 102,
+    "name": "Canal Esportes Ao Vivo",
+    "url": "http://stream.exemplo.com/tv/esportes",
+    "group": "TV",
+    "logo": "https://logo.exemplo.com/esportes.png"
+  },
+  {
+    "id": 201,
+    "name": "Cine Ação HD",
+    "url": "http://stream.exemplo.com/filmes/acao",
+    "group": "Filmes",
+    "logo": "https://logo.exemplo.com/cine_acao.png"
+  },
+  {
+    "id": 202,
+    "name": "Cine Clássico",
+    "url": "http://stream.exemplo.com/filmes/classico",
+    "group": "Filmes",
+    "logo": "https://logo.exemplo.com/cine_classico.png"
+  },
+  {
+    "id": 301,
+    "name": "Novelas Mexicanas",
+    "url": "http://stream.exemplo.com/novela/mexicanas",
+    "group": "Novela",
+    "logo": "https://logo.exemplo.com/novelas_mex.png"
+  },
+  {
+    "id": 401,
+    "name": "Desenhos Clássicos Anos 90",
+    "url": "http://stream.exemplo.com/desenho/classicos90",
+    "group": "Desenho",
+    "logo": "https://logo.exemplo.com/desenhos_90.png"
+  },
+  {
+    "id": 501,
+    "name": "Anime Plus",
+    "url": "http://stream.exemplo.com/anime/plus",
+    "group": "Anime",
+    "logo": "https://logo.exemplo.com/anime_plus.png"
+  },
+  {
+    "id": 502,
+    "name": "Anime Shonen",
+    "url": "http://stream.exemplo.com/anime/shonen",
+    "group": "Anime",
+    "logo": "https://logo.exemplo.com/anime_shonen.png"
+  },
+  {
+    "id": 601,
+    "name": "Canal Drama Coreano",
+    "url": "http://stream.exemplo.com/drama/dorama",
+    "group": "Drama",
+    "logo": "https://logo.exemplo.com/dorama.png"
+  },
+  {
+    "id": 701,
+    "name": "Ficção Científica Total",
+    "url": "http://stream.exemplo.com/ficcao/scifi",
+    "group": "Ficção",
+    "logo": "https://logo.exemplo.com/scifi.png"
+  },
+  {
+    "id": 801,
+    "name": "Comédia Stand-Up",
+    "url": "http://stream.exemplo.com/comedia/standup",
+    "group": "Comédia",
+    "logo": "https://logo.exemplo.com/standup.png"
+  },
+  {
+    "id": 802,
+    "name": "Risada TV",
+    "url": "http://stream.exemplo.com/comedia/risadatv",
+    "group": "Comédia",
+    "logo": "https://logo.exemplo.com/risada.png"
+  }
+]
