@@ -1,20 +1,66 @@
-{
-  "movie": {
-    "title": "Meu Filme",
-    "description": "Um filme incrível para assistir.",
-    "thumbnail": "https://exemplo.com/imagem-filme.jpg",
-    "video_url": "https://exemplo.com/filme.mp4"
+// O CONTEÚDO CORRETO PARA O SEU ARQUIVO ✅
+[
+  {
+    "id": 101,
+    "name": "Canal TV Exemplo",
+    "url": "http://stream.exemplo.com/tv/canal1",
+    "group": "TV",
+    "logo": "https://i.imgur.com/2s51pGv.png"
   },
-  "tv_channels": [
-    {
-      "name": "Canal 1",
-      "logo": "https://exemplo.com/logo1.png",
-      "stream_url": "https://exemplo.com/stream1.m3u8"
-    },
-    {
-      "name": "Canal 2",
-      "logo": "https://exemplo.com/logo2.png",
-      "stream_url": "https://exemplo.com/stream2.m3u8"
-    }
-  ]
-}
+  {
+    "id": 201,
+    "name": "Cine Ação Exemplo",
+    "url": "http://stream.exemplo.com/filmes/acao1",
+    "group": "Filmes",
+    "logo": "https://i.imgur.com/cSAg2v5.png"
+  },
+  {
+    "id": 301,
+    "name": "Novela Exemplo",
+    "url": "http://stream.exemplo.com/novela/novela1",
+    "group": "Novela",
+    "logo": "https://i.imgur.com/D4s2d1S.png"
+  },
+  {
+    "id": 401,
+    "name": "Desenho Exemplo",
+    "url": "http://stream.exemplo.com/desenho/desenho1",
+    "group": "Desenho",
+    "logo": "https://i.imgur.com/bA4nUa5.png"
+  },
+  {
+    "id": 501,
+    "name": "Anime Exemplo",
+    "url": "http://stream.exemplo.com/anime/anime1",
+    "group": "Anime",
+    "logo": "https://i.imgur.com/sS3f9G3.png"
+  },
+  {
+    "id": 601,
+    "name": "Drama Exemplo",
+    "url": "http://stream.exemplo.com/drama/drama1",
+    "group": "Drama",
+    "logo": "https://i.imgur.com/eC5wG5r.png"
+  },
+  {
+    "id": 701,
+    "name": "Ficção Exemplo",
+    "url": "http://stream.exemplo.com/ficcao/ficcao1",
+    "group": "Ficção",
+    "logo": "https://i.imgur.com/kH1oJ7z.png"
+  },
+  {
+    "id": 801,
+    "name": "Comédia Exemplo",
+    "url": "http://stream.exemplo.com/comedia/comedia1",
+    "group": "Comédia",
+    "logo": "https://i.imgur.com/vH3sP9o.png"
+  },
+  {
+    "id": 102,
+    "name": "Outro Canal de TV",
+    "url": "http://stream.exemplo.com/tv/canal2",
+    "group": "TV",
+    "logo": "https://i.imgur.com/2s51pGv.png"
+  }
+]
