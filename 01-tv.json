@@ -1,6 +1,6 @@
 {
   "playlist": [
-    { "name": "GLOBO", "group": "CANAIS",  },
-    { "name": "SBT", "group": "CANAIS",  }
+    { "name": "GLOBO", "group": "CANAIS" },
+    { "name": "SBT", "group": "CANAIS"  }
   ]
 }
