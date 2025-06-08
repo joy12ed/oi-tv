@@ -1,19 +1,89 @@
 {
   "playlist": [
     {
-      "name": "GLOBO",
-      "GROUP": "CANAIS ABERTOS",
-      "url": "http://seu-link-para-a-globo.com/stream.m3u8"
+      "name": "Canal de Notícias 24h",
+      "url": "http://seulink.com/noticias.m3u8",
+      "GROUP": "TV"
     },
     {
-      "name": "SBT",
-      "GROUP": "CANAIS ABERTOS",
-      "url": "http://seu-link-para-o-sbt.com/stream.m3u8"
+      "name": "Canal de Esportes",
+      "url": "http://seulink.com/esportes.m3u8",
+      "GROUP": "TV"
     },
     {
-      "name": "AVATAR 2",
-      "GROUP": "FILMES",
-      "url": "http://seu-link-para-o-filme-avatar.mp4"
+      "name": "O Poderoso Chefão",
+      "url": "http://seulink.com/filme1.mp4",
+      "GROUP": "Filmes"
+    },
+    {
+      "name": "De Volta para o Futuro",
+      "url": "http://seulink.com/filme2.mp4",
+      "GROUP": "Filmes"
+    },
+    {
+      "name": "Naruto - Episódio 1",
+      "url": "http://seulink.com/naruto_ep1.mp4",
+      "GROUP": "Animes"
+    },
+    {
+      "name": "Dragon Ball Z - Saga Freeza",
+      "url": "http://seulink.com/dbz_freeza.m3u8",
+      "GROUP": "Animes"
+    },
+    {
+      "name": "Pica-Pau",
+      "url": "http://seulink.com/picapau.mp4",
+      "GROUP": "Desenho"
+    },
+    {
+      "name": "Tom e Jerry",
+      "url": "http://seulink.com/tomejerry.mp4",
+      "GROUP": "Desenho"
+    },
+    {
+      "name": "Avenida Brasil - Cap. 10",
+      "url": "http://seulink.com/avenidabrasil_10.mp4",
+      "GROUP": "Novela"
+    },
+    {
+      "name": "Blade Runner 2049",
+      "url": "http://seulink.com/bladerunner.mp4",
+      "GROUP": "Ficção Científica"
+    },
+    {
+      "name": "A Chegada",
+      "url": "http://seulink.com/achegada.mp4",
+      "GROUP": "Ficção Científica"
+    },
+    {
+      "name": "À Espera de um Milagre",
+      "url": "http://seulink.com/esperamilagre.mp4",
+      "GROUP": "Drama"
+    },
+    {
+      "name": "O Exorcista",
+      "url": "http://seulink.com/exorcista.mp4",
+      "GROUP": "Terror"
+    },
+    {
+      "name": "O Iluminado",
+      "url": "http://seulink.com/iluminado.mp4",
+      "GROUP": "Terror"
+    },
+    {
+      "name": "As Branquelas",
+      "url": "http://seulink.com/branquelas.mp4",
+      "GROUP": "Comédia"
+    },
+    {
+      "name": "Duro de Matar",
+      "url": "http://seulink.com/duromatar.mp4",
+      "GROUP": "Ação"
+    },
+    {
+      "name": "John Wick",
+      "url": "http://seulink.com/johnwick.mp4",
+      "GROUP": "Ação"
     }
   ]
 }
