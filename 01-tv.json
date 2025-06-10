@@ -6,6 +6,92 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
       "GROUP": "TV"
     },
+     {
+      "name": "AWTV  24h",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp",
+      "url": "https://acesso.ecast.site:3070/live/awtvlive.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "Web Tv Clássicos 24h",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
+      "url": "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8",
+      "GROUP": "TV"
+    },
+      {
+      "name": "Tv Clássicos 24h",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp",
+      "url": "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+
+      {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+  {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+  {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+  {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+    {
+      "name": "Outro Canal de 24h",
+      "logo": "https://i.imgur.com/link_logo_tv_2.png",
+      "url": "http://link.com/tv_outro.m3u8",
+      "GROUP": "TV"
+    },
+
+    
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "O Senhor dos Anéis",
       "logo": "https://i.imgur.com/2S6gG8w.jpg",
@@ -60,12 +146,7 @@
       "url": "http://link.com/john_wick_4.mp4",
       "GROUP": "AÇÃO"
     },
-    {
-      "name": "Outro Canal de TV",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
-      "GROUP": "TV"
-    },
+   
     {
       "name": "Outro Filme de Ação",
       "logo": "https://i.imgur.com/link_logo_acao_2.png",
