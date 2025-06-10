@@ -25,60 +25,67 @@
       "GROUP": "TV"
     },
     {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
+      "name": "Grjngo 24h",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp",
+      "url": "https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8",
       "GROUP": "TV"
     },
 
       {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
+      "name": "Canal 29  24h",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp",
+      "url": "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8",
       "GROUP": "TV"
     },
     {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
+      "name": "Teleuniverso Canal 29 24h",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba2c6be5bc77ca3a5172934ed3a38b03.webp",
+      "url": "https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8",
       "GROUP": "TV"
     },
-  {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
+      {
+      "name": " 24h",
+      "logo": "",
+      "url": "",
       "GROUP": "TV"
     },
-    {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
+      {
+      "name": " 24h",
+      "logo": "",
+      "url": "",
       "GROUP": "TV"
     },
-  {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
-      "GROUP": "TV"
-    },
-    {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
-      "GROUP": "TV"
-    },
-  {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
+      {
+      "name": " 24h",
+      "logo": "",
+      "url": "",
       "GROUP": "TV"
     },
     {
-      "name": "Outro Canal de 24h",
-      "logo": "https://i.imgur.com/link_logo_tv_2.png",
-      "url": "http://link.com/tv_outro.m3u8",
+      "name": " 24h",
+      "logo": "",
+      "url": "",
       "GROUP": "TV"
     },
+      {
+      "name": " 24h",
+      "logo": "",
+      "url": "",
+      "GROUP": "TV"
+    },
+      {
+      "name": " 24h",
+      "logo": "",
+      "url": "",
+      "GROUP": "TV"
+    },
+      {
+      "name": " 24h",
+      "logo": "",
+      "url": "",
+      "GROUP": "TV"
+    },
+
 
     
 
@@ -86,18 +93,85 @@
 
 
 
-
-
-
-
-
-    
-    {
-      "name": "O Senhor dos Anéis",
-      "logo": "https://i.imgur.com/2S6gG8w.jpg",
-      "url": "http://link.com/senhor_dos_aneis.mp4",
+  {
+      "name": "",
+      "logo": "g",
+      "url": "4",
       "GROUP": "FILMES"
     },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+      {
+      "name": "",
+      "logo": "g",
+      "url": "4",
+      "GROUP": "FILMES"
+    },
+
+
+
+
+
+
+
     {
       "name": "Attack on Titan",
       "logo": "https://i.imgur.com/k2U4i1p.jpg",
