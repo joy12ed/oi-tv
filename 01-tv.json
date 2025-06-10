@@ -2,7 +2,7 @@
   "playlist": [
     {
       "name": "Rede Manchete 24h",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ6Hc8yL96Eix2SU0sCA_XR7Fm7q8h_hYh2l6BWFalyrRK1012AngsXASzUzfYN56thhgAxRP1yoxV6HlXGVX49L8oZSyZiU3JmsDyCPyeyVQHZRzoga-e-CbRN2wJi4ED5cbkRZaDUyxuDtisSYbJxwp8CDvgj6YmgL4FWJXD_hf612Bhcp-rmdTpGow/s4096/ddzdb0y-40eaba1d-143d-4bb3-846f-38f96ad7a75b.png",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp",
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
       "GROUP": "TV"
     },
@@ -44,15 +44,15 @@
       "GROUP": "TV"
     },
       {
-      "name": " 24h",
-      "logo": "",
-      "url": "",
+      "name": "TV CARIOCA INTERNACIONAL 24h",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQMtR-vXKU6vcWBP2TN7pLU8X_UvCOYsLS38Eo9ygSDY0diRsN48U1WsMHlzwukgNjoM5T9bi0GYvxNPNmD-F-qkTkTAvGQhWLFHD3_JsveuUPpk58r87R21Pj143cKufv7eTU_0nzk1NZCh0Llo3lv_DPnbAZVzvHg2vLZfZb2JGkYFFD5Qc8SWgNSlA/s200/TV%20CARIOCA%20INTERNACIONAL.webp",
+      "url": "https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8",
       "GROUP": "TV"
     },
       {
-      "name": " 24h",
-      "logo": "",
-      "url": "",
+      "name": "GLN TV 24h",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eEG26n6b4SOVAkwgabHiRzAqpvJo80Da_Q8Tjt6oO5WrWmisUTMMUm4ihEKwWX8RtqppXmxr6szY5skdwQqC32Tkyw5vkKfAEFPTSY1YAPGO8Glmec5LUzcQk1ndg36A2u8Z2k4Dugru21yTTditwKSDW3q9BXrV-1eMinvM2RkJ8IKlXGBXUtJ8oGE/s200/GLN%20TV.webp",
+      "url": "https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8",
       "GROUP": "TV"
     },
       {
@@ -178,12 +178,111 @@
       "url": "http://link.com/attack_on_titan.mp4",
       "GROUP": "ANIMES"
     },
+
+
+
+
+    
     {
-      "name": "Bob Esponja",
-      "logo": "https://i.imgur.com/link_logo_desenho.png",
-      "url": "http://link.com/bob_esponja.mp4",
+      "name": "TV LEMBRANÇA HANNA BARBERA",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKFsYIP2NKgmwckdDNDBsEJpLjXokMezr1ES0nVGX61NgTg-fB2hRjpz_bYV4Wy_ZCyvMer2gT1sq4dgXDN2gX8TIpcF5A-XVV_8sz-5HWQAwsHKXbFCWQG82aqtrN-jPUkRbY04wYTgQcsR3wTMp90W7AB3eaXEkTy_glyDGAYEXecz1125R16bNkBik/s200/TV%20LEMBRAN%C3%87A%20HANNA%20BARBERA.webp",
+      "url": "https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8",
       "GROUP": "DESENHO"
     },
+      {
+      "name": "RETRÔ CARTOON",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp",
+      "url": "https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "TV POMPEIA",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijEkP-ewLNmupTZLJNXX3UsA1s0oO5o5cQt95m49Vq6Ej6N-UAs8HBf9D-WjSvd_K_mURrHqyYY_ErupjWrAeCLEzmq5PulHGhTYj5XTcgCAIW3cqg-holDbHTdS9TdbQ4gYu8mCnhXdrwmE0Q2KHdFjSiw8vKKBsgHyIGKeo6_wRyRvdjRNlcX6bdiCU/s200/TV%20POMPEIA.webp",
+      "url": "https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "TV KIDMAIS",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1HILfQcQHzZGBMTuEYK4AkdeCjZV2vG-U1BaLRE4bQkhbKkljRblVIh40VjKfpX-Ftu1tcpnyTONbJ1cutSpWBdYXiZK2nNKYFKGRSsjR3OhkAbl2l4vBaRGLf7rq1jpSBEK1lYaXFf02s_Fr0MrrT94hVka8tQJoZDDdW3fMZp5HOLuOCJWGBp15zgA/s200/TV%20KIDMAIS.webp",
+      "url": "https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8",
+      "GROUP": "DESENHO"
+    },
+     {
+      "name": "GOSPEL CARTOON",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2OmciN6Dh_nvBmt67SF-fdeQayxMGY3R8toyLKlZNsQ-VKZGXJRYQH4guHjRVqaroQdYPA-HnnNCxZH56VU-koSvil3zMYfr6_sD_EXtaT3TX-o9PfMhIrZgV7MbyZiDqUs9d0KRHf9NthBOi6Q3UYth8cMSXsDZLEtD2V6Z605oj6ujNxA7wDyBfX4/s200/GOSPEL%20CARTOON.webp",
+      "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "NTC PLAY",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDgOYmuqoUOUheCvaRHazkyxnCcP3rW1z7liXG1tvSz2NkgPn0WDClyvBM0LlD88YBLCYYdqZcsRJzl7aud2KaYJy8xP6Lc7KLePer2R2eaH8NbYJBsvO0kVzZc8QgDc3pnom7dZzDQBHWfeCam-iRxL7FueWqgioWoCqsPGgC6H966Esp1xzhOLIwa40/s200/NTC%20PLAY.webp",
+      "url": "https://stmv2.srvsh.com.br/matheusdeoliveira7038/matheusdeoliveira7038/playlist.m3u8",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "JETSONS TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS3X8mNdeLfqxo3yHHKf5MtVuudJ13Hy123AKtPXRdZ_m_gzqarwt7_h-LW12zalXijS3bSKraS53IdBvBB76E4HV_4ZQThPuy5uRBUZf-jv17Q8O83IzoxwdWLTJVziSg1nefIeYB_Ff9_l6_UslVXc1i8QPY4sofXasMNGtuPPuJAoUH0MPoxtp9HAg/s200/JETSONS%20TV.webp",
+      "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "MI TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgReDsWMBP5nn_ewWFL8dnjd3YHyicSM-Z-ziTZ7e8M3MCFpVWex2sNYVO8gXsjFKECzN8iaAMBhV3PTNhiqG2SiVgJ2_mjzmINNHR4P4raujuM4eSq5jBM4jVfRv2fW_p7kary_KyJZ8pNhs-qJ5oDE18x9jx93ZFBmn4IoUyVXee-3rZu1oDtpA904CA/s200/MI%20TV.webp",
+      "url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
+      "GROUP": "DESENHO"
+    },
+     {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+     {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+      {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "GROUP": "DESENHO"
+    },
+
+
+    
+    
     {
       "name": "Avenida Brasil - Cap. 10",
       "logo": "https://i.imgur.com/link_logo_novela.png",
