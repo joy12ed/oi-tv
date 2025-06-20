@@ -94,15 +94,15 @@
 
 
   {
-      "name": "",
-      "logo": "g",
-      "url": "4",
+      "name": "Sony One Cinema Ao Vivo",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+      "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
       "GROUP": "FILMES"
     },
       {
-      "name": "",
-      "logo": "g",
-      "url": "4",
+      "name": "Runtime Ação Ao Vivo",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+      "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
       "GROUP": "FILMES"
     },
       {
@@ -284,11 +284,39 @@
     
     
     {
-      "name": "Avenida Brasil - Cap. 10",
-      "logo": "https://i.imgur.com/link_logo_novela.png",
-      "url": "http://link.com/avenida_brasil_10.mp4",
+      "name": "TVI Ficção Ao Vivo",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp",
+      "url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
       "GROUP": "NOVELA"
     },
+     {
+      "name": "SOMOS NOVELAS",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkwyDi8BQpI98V2_JqJdItAzYdlsPt1iW8rb5Ss1tmPhuQLvcu9gIHaKvwvkHroNocKDrYX46hFuAaEt0utSQKZA3Z5sE-AKaMPK9tOf-vRmD6DeBzhkZ2I18HRgcDveyvgT8lshJH-g8yKqw-L5OE6KLNIAr7pjpsimMPG1kEFaFekQB4jBp4JR-GvJo/s200/SOMOS%20NOVELAS.webp",
+      "url": "https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8",
+      "GROUP": "NOVELA"
+    },
+     {
+      "name": "CANELA TELENOVELAS",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSV7BJQvFgc36VWxCpxCtnltbd_iJYcNqEKeJOs9Zg98fPjrbJ673nTi-Urh_jXjf-FpsLi4tDLwu4pLupyE0B5XDuhWLVWeTW6fdM-YLV8Pj6GGGCotj9fp7bZS1SzxgyRKrlXdIdKhyACoxP2AcSrPnQtT5HJYpEIEcl4GLMUpvEbz9LtKAhhs_tcf0/s200/CANELA%20TELENOVELAS.jpg",
+      "url": "https://amg00658-amg00658c30-canelatv-international-5107.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telenovelasapp-canelatvinternational/playlist.m3u8",
+      "GROUP": "NOVELA"
+    },
+     {
+      "name": "TELEVIVA",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEKwO8wHYUuk2DVJu_cw0WBvniCz7w6peqtMvJe1lzrGQNoVJKkIUlzXGOVB9o3XF4XyGIfxrMbSZIZEslnLkJO7cjqMPo6T1TrhGL1UcYDXVZVBul_yNe4zt06QB4_4D2wVVEy_tjNvqSQQvn4UR7pPiJ0UWmKNEpOqodTozZfRB5m9z_o7lZEmqhyqc/s200/TELEVIVA.webp",
+      "url": "https://stmv.webtvninjas.com.br/latinasfast/latinasfast/playlist.m3u8",
+      "GROUP": "NOVELA"
+    },
+     {
+      "name": "TELA BRASIL TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXxUP6j4Yq4YZgjqcearCOVcfp9HXOLQJxv5WhdGalP05RgcMMg3Pb3ursBwcR1ezSDqUikzHGNr-7eNHesYgxpjFUJSea5JLG4TJF9MtTX_JP8bMVtl2sSha9iN-fXlOn7IShtvqlgttUnTpqP_g-OfZoTsDa1n5z1raRvoHNt_SOrjPzCuHcbfiCZd0/s200/TELA%20BRASIL%20TV.webp",
+      "url": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
+      "GROUP": "NOVELA"
+    },
+
+
+
+    
     {
       "name": "Blade Runner 2049",
       "logo": "https://i.imgur.com/link_logo_ficcao.png",
