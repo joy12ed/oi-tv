@@ -52,13 +52,13 @@
       {
       "name": "GLN TV 24h",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eEG26n6b4SOVAkwgabHiRzAqpvJo80Da_Q8Tjt6oO5WrWmisUTMMUm4ihEKwWX8RtqppXmxr6szY5skdwQqC32Tkyw5vkKfAEFPTSY1YAPGO8Glmec5LUzcQk1ndg36A2u8Z2k4Dugru21yTTditwKSDW3q9BXrV-1eMinvM2RkJ8IKlXGBXUtJ8oGE/s200/GLN%20TV.webp",
-      "url": "https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8",
+      "url": "https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8",
       "GROUP": "TV"
     },
       {
-      "name": " 24h",
-      "logo": "",
-      "url": "",
+      "name": "REDE BRASIL",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJqjfminoRXVElIp3h-dhiL5UvBmG54iSv9aMmvPxrqjZ0iIkbnD8qOostLLWhc19LzyPvvC2xN9TFzjt7zMs_Yxclz1EW8Po8CucFTZQRGok1jV0gE2KFNDqm5cYQrQSMOoXj8w0B1X4t-3CgJyGmR32TOCDX7GXHujoCowhDmIWBVQUM04yZpk4GX0/s200/REDE%20BRASIL.webp",
+      "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
       "GROUP": "TV"
     },
     {
